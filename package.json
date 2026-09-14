@@ -1,0 +1,23 @@
+{
+  "name": "kanak-cattlefeed",
+  "version": "1.0.0",
+  "description": "Official website for Kanak Cattle Feed Private Limited, Lucknow",
+  "main": "index.html",
+  "scripts": {
+    "dev": "serve . -p 3000",
+    "start": "serve . -p 3000",
+    "serve:py": "python -m http.server 3000"
+  },
+  "keywords": [
+    "cattle-feed",
+    "dairy",
+    "lucknow",
+    "agriculture",
+    "kanak-cattle-feed"
+  ],
+  "author": "Sheevum Goel",
+  "license": "ISC",
+  "devDependencies": {
+    "serve": "^14.2.4"
+  }
+}
